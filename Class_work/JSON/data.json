@@ -1,0 +1,6 @@
+{
+    "name": "Priyanshu",
+    "age": 20,
+    "skills": ["python", "iot", "ml"],
+    "active": true
+}
